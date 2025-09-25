@@ -33,3 +33,11 @@ h   l
 * `e` goes to the next end fo the word
 * `b` goes back a word (previous start-of-word)
 * `f<char>` goes to the next occurrence of `<char>` on the line
+
+## Copy-paste
+In general mode:
+* `yy` copies a line
+* `p` pastes a line
+* `dd` deletes (cuts) a line
+* `"_dd` deletes a line without affecting clipboard
+  * (cut line, but directing clipboard to the "null" register)
