@@ -7,7 +7,7 @@ Note I am starting on Linux Mint.
 ## General
 * Linux can type any unicode character with `ctrl+shift+u` + type the unicode hex.
   Hold ctrl+shift while typing the code.
-  * `U+AF` makes ¯, U+30C4 makes ツ, for `¯\(ツ)/¯`
+  * `U+AF` makes ¯, `U+30C4` makes ツ, for `¯\(ツ)/¯`
   * `U+2122` makes ™
 
 ## Knowledge
